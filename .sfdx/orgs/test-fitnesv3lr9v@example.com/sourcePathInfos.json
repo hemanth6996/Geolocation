@@ -86,53 +86,53 @@
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9756,
-            "modifiedTime": 1527384033583,
-            "changeTime": 1527384033583,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9899,
+            "modifiedTime": 1527454893530,
+            "changeTime": 1527454893530,
+            "contentHash": "41800c67de1a326a06fd42146a630c5ff179d7cb"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9708,
-            "modifiedTime": 1527384033593,
-            "changeTime": 1527384033593,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9851,
+            "modifiedTime": 1527454893547,
+            "changeTime": 1527454893547,
+            "contentHash": "975608186fc7d9256efc7062935e246ef86533ba"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9708,
-            "modifiedTime": 1527384033601,
-            "changeTime": 1527384033601,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9851,
+            "modifiedTime": 1527454893560,
+            "changeTime": 1527454893560,
+            "contentHash": "5e484d3a68f577b6d12f6a8c69e0eea29186e653"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 9756,
-            "modifiedTime": 1527384033607,
-            "changeTime": 1527384033607,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9899,
+            "modifiedTime": 1527454893577,
+            "changeTime": 1527454893577,
+            "contentHash": "2f43944e1a7e23324bb0ed647cee1a8c92889ae0"
         }
     ],
     [
@@ -164,14 +164,14 @@
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1527453882541,
-            "changeTime": 1527384033572,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1527454893514,
+            "changeTime": 1527454893514,
+            "contentHash": "51585a46f3b5da93e10183361c527a516b0326f5"
         }
     ],
     [
@@ -281,66 +281,79 @@
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527454170801,
             "changeTime": 1527454170801,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1527454170787,
             "changeTime": 1527454170787,
-            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 114,
             "modifiedTime": 1527454170793,
             "changeTime": 1527454170793,
-            "contentHash": "afdd78ed2864ac252024d82a836b21bdc7ccb67a"
+            "contentHash": "afdd78ed2864ac252024d82a836b21bdc7ccb67a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 60,
             "modifiedTime": 1527454170797,
             "changeTime": 1527454170797,
-            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1"
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 150,
             "modifiedTime": 1527454170802,
             "changeTime": 1527454170802,
-            "contentHash": "c9ce9602f13d9b5354b0845bffdd88363e14f7cc"
+            "contentHash": "c9ce9602f13d9b5354b0845bffdd88363e14f7cc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\hvanapalli\\Documents\\Organized Files\\Technology\\Salesforce\\SFDC Concept wise\\SF DX\\SFDX Practicals\\Geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 378,
+            "modifiedTime": 1527454893514,
+            "changeTime": 1527454893514,
+            "contentHash": "e1d100208d770580dfca752012a5a24c7f9c9c26"
         }
     ]
 ]
