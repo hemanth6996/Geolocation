@@ -3,7 +3,7 @@
     <fullName>Location__c</fullName>
     <displayLocationInDecimal>true</displayLocationInDecimal>
     <externalId>false</externalId>
-    <label>Location1</label>
+    <label>LocationNew</label>
     <required>false</required>
     <scale>7</scale>
     <trackFeedHistory>false</trackFeedHistory>
